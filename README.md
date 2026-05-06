@@ -2,7 +2,9 @@
 ---
 
 
+
 <img width="1920" height="1020" alt="output1" src="https://github.com/user-attachments/assets/edee7b51-f677-4231-9e18-80f922feb6d4" />
+
 
 
 ---
@@ -33,7 +35,9 @@ GradeGuard AI is an advanced AI-powered Student Performance Prediction & Academi
 🔹 Data Science Roles 🔹 Machine Learning Roles 🔹 Data Analyst Roles 🔹 AI Portfolio Projects 🔹 Educational Analytics Projects 🔹 GitHub Proof-of-Work
 
 
+
 <img width="1920" height="1020" alt="output2" src="https://github.com/user-attachments/assets/f83a4ab1-1c4b-4686-8830-c904ed4e018f" />
+
 
 
 ---
@@ -62,7 +66,9 @@ Educational institutions often struggle to identify academically weak students b
 ✨ Real-time student analytics.
 
 
+
 <img width="1920" height="1020" alt="output3" src="https://github.com/user-attachments/assets/8c5328a1-e912-4d93-8673-7fc4d5eb8c4f" />
+
 
 
 ---
@@ -89,7 +95,9 @@ Educational institutions often struggle to identify academically weak students b
 📊 AI-powered educational analytics.
 
 
+
 <img width="1920" height="1020" alt="output4" src="https://github.com/user-attachments/assets/a996321f-72d3-4cd8-92b3-3ae0efce8bf4" />
+
 
 
 ---
@@ -118,7 +126,9 @@ Educational institutions often struggle to identify academically weak students b
 🎯 Project Level
 
 
+
 <img width="1920" height="1020" alt="output5" src="https://github.com/user-attachments/assets/9e596cba-9069-4e4c-a80d-6a3093f855c8" />
+
 
 
 ---
@@ -135,7 +145,9 @@ Educational institutions often struggle to identify academically weak students b
 ### **🔹 Plotly :** Used for glowing interactive charts, premium analytics visuals, and dashboard visualizations.
 
 
+
 <img width="1920" height="1020" alt="output6" src="https://github.com/user-attachments/assets/941e89ab-31d1-478d-bf70-be45ff26c09d" />
+
 
 
 ---
@@ -146,7 +158,9 @@ Educational institutions often struggle to identify academically weak students b
 Student Data ➜ Data Cleaning ➜ Feature Engineering ➜ ML Prediction ➜ Risk Analysis ➜ Dashboard Visualization ➜ AI Insights ➜ Final Reports
 
 
+
 <img width="1920" height="1020" alt="output7" src="https://github.com/user-attachments/assets/d62e00fc-ac2e-460c-a10c-3b7093069475" />
+
 
 
 ---
@@ -171,7 +185,9 @@ User Input / CSV Upload
 ⬇️ Final Prediction Reports
 
 
+
 <img width="1920" height="1020" alt="output8" src="https://github.com/user-attachments/assets/c2fcfe92-b583-4dca-9620-88b7a1ae52e0" />
+
 
 
 ---
@@ -180,7 +196,9 @@ User Input / CSV Upload
 ---
 
 
+
 <img width="586" height="748" alt="image" src="https://github.com/user-attachments/assets/b02c63a1-0651-4e17-aa9c-5f62dee87f09" />
+
 
 
 ---
@@ -213,7 +231,9 @@ User Input / CSV Upload
 ✨ Department Performance Intelligence.
 
 
+
 <img width="1920" height="1020" alt="output9" src="https://github.com/user-attachments/assets/9e61ded1-79c7-4ee5-ae22-529fb8e2df33" />
+
 
 
 ---
@@ -230,7 +250,9 @@ User Input / CSV Upload
 ✅ Pass / Fail Prediction ✅ Risk Score ✅ Risk Level ✅ Attendance Zone ✅ Pass Probability ✅ Fail Probability ✅ Guardian Call Requirement.
 
 
+
 <img width="1920" height="1020" alt="output10" src="https://github.com/user-attachments/assets/307d6f82-9bda-4b38-975b-72ef19508f40" />
+
 
 
 ---
@@ -254,29 +276,43 @@ https://github.com/user-attachments/assets/8af935cc-ac29-484a-a8fa-9ed74f494403
 
 ---
 
-## **📸 L. Outputs **
+## **📸 L. Outputs**
 ---
 
 
 <img width="1920" height="1020" alt="output11" src="https://github.com/user-attachments/assets/0188dbe4-2d65-4ffc-a659-d0e7b209438d" />
 
 
+
+
 <img width="1920" height="1020" alt="output12" src="https://github.com/user-attachments/assets/f0a22767-555e-414f-b8ac-d337f12326f9" />
+
+
 
 
 <img width="1920" height="1020" alt="output14" src="https://github.com/user-attachments/assets/28cb1ebf-7787-4b8f-9f1c-70f2959e74f5" />
 
 
+
+
 <img width="1920" height="1020" alt="output15" src="https://github.com/user-attachments/assets/bb2820c0-fc97-4eb8-a999-231905dcd147" />
+
+
 
 
 <img width="1920" height="1020" alt="output16" src="https://github.com/user-attachments/assets/c10fd396-6756-416d-a146-fb971a08ddfc" />
 
 
+
+
 <img width="1920" height="1020" alt="output17" src="https://github.com/user-attachments/assets/45134b7a-604a-403b-a4f8-11b6d4b399eb" />
 
 
+
+
 <img width="1920" height="1020" alt="output18" src="https://github.com/user-attachments/assets/d049bc8e-53a4-4f87-8a06-e87f39f46fa7" />
+
+
 
 
 <img width="1920" height="1020" alt="output19" src="https://github.com/user-attachments/assets/069eddc1-84f1-45b4-980c-6572e4ef8d59" />
@@ -294,7 +330,9 @@ https://github.com/user-attachments/assets/8af935cc-ac29-484a-a8fa-9ed74f494403
 ### **🔹 Install Libraries :** pip install -r requirements.txt
 
 
+
 <img width="1920" height="1020" alt="output20" src="https://github.com/user-attachments/assets/903662a4-ba8a-4071-a32a-5291b83f2620" />
+
 
 
 ---
@@ -319,7 +357,9 @@ https://github.com/user-attachments/assets/8af935cc-ac29-484a-a8fa-9ed74f494403
 🧠 AI insights recommend interventions.
 
 
+
 <img width="1920" height="1020" alt="output21" src="https://github.com/user-attachments/assets/547fb567-ce12-4f20-b7c5-4bed0d8493e4" />
+
 
 
 ---
@@ -338,7 +378,9 @@ https://github.com/user-attachments/assets/8af935cc-ac29-484a-a8fa-9ed74f494403
 ### **🔹 Push Project :** git push -u origin main
 
 
+
 <img width="1920" height="1020" alt="output22" src="https://github.com/user-attachments/assets/055fbe8c-f7bd-4e80-bed0-7ca98597bb01" />
+
 
 
 ---
@@ -365,7 +407,9 @@ https://github.com/user-attachments/assets/8af935cc-ac29-484a-a8fa-9ed74f494403
 📈 Pass percentage  📉 Failure reduction  🎯 Student monitoring  🧠 Academic decision making
 
 
+
 <img width="1920" height="1020" alt="output23" src="https://github.com/user-attachments/assets/f522b3be-b705-4c59-ac27-60e330c9bf2a" />
+
 
 
 ---
@@ -394,7 +438,9 @@ https://github.com/user-attachments/assets/8af935cc-ac29-484a-a8fa-9ed74f494403
 🚀 GitHub Project Deployment.
 
 
+
 <img width="1920" height="1020" alt="output24" src="https://github.com/user-attachments/assets/90ac351d-9c98-4cfc-828d-c645c808fff4" />
+
 
 
 ---
@@ -421,7 +467,9 @@ https://github.com/user-attachments/assets/8af935cc-ac29-484a-a8fa-9ed74f494403
 📡 Real-Time Attendance APIs.
 
 
+
 <img width="1920" height="1020" alt="output25" src="https://github.com/user-attachments/assets/8affe588-f26c-4e6c-b628-66432c4ee5e8" />
+
 
 
 ---
